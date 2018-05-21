@@ -1,0 +1,13 @@
+title: Creative Learning Design
+author: Willie Payne
+email: williepain@gmail.com
+description: Summer course page at NYU Shanghai in Summer, 2018.
+lang: en
+color_scheme: github # this specifies color scheme for syntax highlighting
+github_username: huriphoonado
+
+# Build settings
+markdown: kramdown
+exclude:
+  - Gemfile
+  - Gemfile.lock
