@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Course Overview
+title: COURSE OVERVIEW
 lang: en
 navlevel: header
 navtitle: overview

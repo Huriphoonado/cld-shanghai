@@ -1,7 +1,7 @@
 ---
 layout: page
 lang: en
-title: This Week's Homework
+title: THIS WEEK'S HOMEWORK
 position: 2
 navlevel: header
 navtitle: homework
