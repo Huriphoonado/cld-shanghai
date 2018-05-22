@@ -9,6 +9,9 @@ navtitle: home
 ---
 **NYU Shanghai, Summer 2018**  
 Course #: INTM-SHU 236A-1 (4 credits)  
-Meeting Times: Tuesdays and Thursdays 1-4pm  
-Location: Room 900 - PCI Classroom  
+Location: Room 900 (PCI Classroom)  
+Meeting Times: Tuesdays and Thursdays, 1-4pm  
+Open Lab: Wednesdays, 1-4pm
+
 Instructors: Alex Ruthmann & Willie Payne  
+Course Coordinator: Yilu Guo
