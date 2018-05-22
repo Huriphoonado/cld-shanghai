@@ -12,10 +12,11 @@ navtitle: homework
 ### Due Thursday, May 24:
 #### Critique
 * Read: [Programming, Humility, and the Eclipse of the Self](https://drive.google.com/open?id=1C2lfLAJ0Qm8_o_FLdfVCCpVaijby1Hqx)
+* Read: [Music, Meaning, Transformation, Chapter 5](https://drive.google.com/open?id=1nTz9PQF24GHVpRCbPPUlUK0wv3n1mDOz)
 * Watch: [The Orchestra of the Future](https://www.ted.com/talks/ge_wang_the_diy_orchestra_of_the_future)
 
 #### Create
-1. Make a new Google slide deck titled with your name in the [Student Design Journal Folder](https://drive.google.com/drive/folders/1GS1H-5JEHPHAe8OgHM3DpHbzuXnvfvWx?usp=sharing) and create a cover page. This is your ***Design Journal*** where you will document your work throughout the course. Your instructor has provided an example for this week's assignments.
+1. Make a new Google slide deck titled with your name in the [Student Design Journal Folder](https://drive.google.com/open?id=1GS1H-5JEHPHAe8OgHM3DpHbzuXnvfvWx) and create a cover page. This is your ***Design Journal*** where you will document your work throughout the course. Get creative in picking colors, fonts and images! Your instructor has provided an example for this week's assignments.
 2. Find a Youtube video with a song you enjoy. Then, use the [aQWERTYon](https://apps.musedlab.org/aqwertyon/) to perform with it finding a suitable instrument and key. Document your process in your ***Design Journal***. What was easy? What was hard? Include screenshots and pictures. We will all perform for each other on Thursday!
 3. Brainstorm three ideas for a Scratch+Music Project. List them with a brief description, and/or maybe a sketch in your ***Design Journal***. Don't feel like you have to commit to any idea or that they have to be brilliant. We care more about quantity than quality here!
 
