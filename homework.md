@@ -17,7 +17,7 @@ navtitle: homework
 
 #### Create
 1. Make a new Google slide deck titled with your name in the [Student Design Journal Folder](https://drive.google.com/open?id=1GS1H-5JEHPHAe8OgHM3DpHbzuXnvfvWx) and create a cover page. This is your ***Design Journal*** where you will document your work throughout the course. Get creative in picking colors, fonts and images! Your instructor has provided an example for this week's assignments.
-2. Post the "Lego Home" you made.
+2. Post the "Lego Home" and portrait you made.
 3. Find a Youtube video with a song you enjoy. Then, use the [aQWERTYon](https://apps.musedlab.org/aqwertyon/) to perform with it finding a suitable instrument and key. Document your process in your ***Design Journal***. What was easy? What was hard? Include screenshots and pictures. We will all perform for each other on Thursday!
 4. Brainstorm three ideas for a Scratch+Music Project. List them with a brief description, and/or maybe a sketch in your ***Design Journal***. Don't feel like you have to commit to any idea or that they have to be brilliant. We care more about quantity than quality here!
 
