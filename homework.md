@@ -28,11 +28,14 @@ navtitle: homework
 * Read: [IDEO Field Guide, pp. 1–26](https://drive.google.com/open?id=1sRnx_Wmyi7MgkJY4VkEiR-4W_DHxqtRS)
 * Watch: [The Mad Scientist of Music](https://www.ted.com/talks/mark_applebaum_the_mad_scientist_of_music)
 
-#### Curate
-Scour the [Scratch Website](https://scratch.mit.edu) and find a creative project that uses music and/or art in some way you really enjoy. Analyze: What makes it fun, funny, artistic, or awesome? Is there anything that could be done better? Include your analysis in your ***Design Journal***. (Don't forget to include screenshots.)
-
 #### Create
-Begin working on your Scratch musical instrument with your partner. We will be sharing our progress with students at Cloud Valley on Thursday, May 31, and they are due on Tuesday, June 5.
+Watch the Makey Makey music videos for inspiration.
+* [MaKey MaKey Music Examples Vol 1](https://youtu.be/wkPt9MYqDW0)
+* [MaKey MaKey Music Examples Vol 2](https://youtu.be/STHZ2FFKYBs)
+
+Begin working on your Scratch/MaKey musical instrument with your partner. We will show off our progress to each other and to Cloud Valley teachers in class on Tuesday.
+
+It is due Thursday, May 31 when we will be sharing our instruments with first graders and seventh graders at Cloud Valley School.
 
 ***
 <center><a href='https://docs.google.com/spreadsheets/d/1VG1K4f6eRtQaxqVSOX7DTNqgoiA7TVCsjpQANqhlb4s/edit?usp=sharing' target="_blank">Click here to view the course calendar.</a></center>
