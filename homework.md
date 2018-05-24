@@ -30,8 +30,10 @@ navtitle: homework
 
 #### Create
 Watch the Makey Makey music videos for inspiration.
-* [MaKey MaKey Music Examples Vol 1](https://youtu.be/wkPt9MYqDW0)
-* [MaKey MaKey Music Examples Vol 2](https://youtu.be/STHZ2FFKYBs)
+
+[![MaKey MaKey Music Examples Vol 1](http://img.youtube.com/vi/wkPt9MYqDW0/0.jpg)](http://www.youtube.com/watch?v=wkPt9MYqDW0)
+
+[![MaKey MaKey Music Examples Vol 1](http://img.youtube.com/vi/STHZ2FFKYBs/0.jpg)](http://www.youtube.com/watch?v=STHZ2FFKYBs)
 
 Begin working on your Scratch/MaKey musical instrument with your partner. We will show off our progress to each other and to Cloud Valley teachers in class on Tuesday.
 
