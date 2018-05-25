@@ -29,15 +29,21 @@ navtitle: homework
 * Watch: [The Mad Scientist of Music](https://www.ted.com/talks/mark_applebaum_the_mad_scientist_of_music)
 
 #### Create
-Watch the Makey Makey music videos for inspiration.
-
-[![MaKey MaKey Music Examples Vol 1](http://img.youtube.com/vi/wkPt9MYqDW0/0.jpg)](http://www.youtube.com/watch?v=wkPt9MYqDW0)
-
-[![MaKey MaKey Music Examples Vol 1](http://img.youtube.com/vi/STHZ2FFKYBs/0.jpg)](http://www.youtube.com/watch?v=STHZ2FFKYBs)
-
-Begin working on your Scratch/MaKey musical instrument with your partner. We will show off our progress to each other and to Cloud Valley teachers in class on Tuesday.
+Continue working on your Scratch/MaKey musical instrument with your partner. We will show off our progress to each other and to Cloud Valley teachers in class on Tuesday.
 
 It is due Thursday, May 31 when we will be sharing our instruments with first graders and seventh graders at Cloud Valley School.
+
+Watch the MaKey MaKey Music videos for inspiration:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wkPt9MYqDW0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/STHZ2FFKYBs" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+#### Other examples:
+* [Noise picked up by the computer microphone moves the cat across the screen.](https://scratch.mit.edu/projects/573350/)
+* [Motion captured by a computer camera triggers the strings of an instrument.](https://scratch.mit.edu/projects/10040683/)
+* [Simple MaKey MaKey instruments.](http://tinyurl.com/makeymakeyscratchmusic)
+* [Cognimates AI Scratch Platform](https://mitmedialab.github.io/cognimates-website/about/)
 
 ***
 <center><a href='https://docs.google.com/spreadsheets/d/1VG1K4f6eRtQaxqVSOX7DTNqgoiA7TVCsjpQANqhlb4s/edit?usp=sharing' target="_blank">Click here to view the course calendar.</a></center>
