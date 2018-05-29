@@ -15,6 +15,7 @@ Current teams are listed below, but are not set in stone. They will be considere
 * Vanelly Garces
 * Amy Li
 * Nancy Wang
+* Vincent Wu
 
 ## Tinkamo:
 * Calvin Chen

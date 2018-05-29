@@ -35,7 +35,7 @@ Watch the MaKey MaKey Music videos for inspiration:
 Take a picture of an object in the world with affordances. (These are discussed beginning on p. 10 in [*The Design of Everyday Things*](https://drive.google.com/open?id=1RUOBMvSxUY9QhSlO4MmMfIESz_LbzKaH).) Then, include the picture in your ***Design Journal*** alongside a list of the object's affordances. Does the object have any signifiers or mappings? What are they and how well do they work?
 
 #### Create
-Finalize your MaKey+Scratch instrument with your team! Remember to plan how you will present it to first graders vs. seventh graders and how to involve each age group. Also, write down your questions for an individual student on the handout we provide you with in class.
+Finalize your MaKey+Scratch instrument with your team! Remember to plan how you will present it to first graders vs. seventh graders and how to involve each age group. Also, write down your prior experience and assumptions for an individual student on the handout we provide you with in class. [Post a link to your Scratch project here.](https://docs.google.com/spreadsheets/d/1yppuzT51VB6pmNCGvrmwqNyU4vAHZoaEHIhGcESEJYc/edit?usp=sharing)
 
 We are visiting Cloud Valley School for the entire day.
 * Please **meet in the lobby at NYU at 6:50am** for the bus to take us all there.
@@ -50,10 +50,9 @@ We are visiting Cloud Valley School for the entire day.
 #### Create
 In your ***Design Journal***, create a reflection on the Cloud Valley trip with the following slides.
 * **Slide 1:** Describe what you and your team made. What are the inputs, e.g. how is it controlled? What are the outputs, e.g. what sounds/visuals does it produce?
-* **Slide 2:** How did seventh graders interact with your instrument? What worked? What didn't work? What was unexpected?
-* **Slide 3:** How did first graders interact with your instrument? What worked? What didn't work? What was unexpected?
-* **Slide 4:** If you were to continue working on your instrument, what would you change about it? Remember, this course is entitled "Creative Learning Design." How would you improve your instrument's user experience, effectiveness in encouraging creativity, and/or use as a teaching tool?
-* **Slide 5:** Summarize your individual interview with a Cloud Valley student.
+* **Slide 2:** How did seventh graders interact with your instrument? What worked? What would you change? What was unexpected?
+* **Slide 3:** How did first graders interact with your instrument? What worked? What would you change? What was unexpected?
+* **Slide 4:** Summarize your individual interview with a Cloud Valley student.
 
 #### Teams
 * Cloud Valley: TBD

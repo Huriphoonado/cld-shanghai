@@ -28,8 +28,8 @@ We are visiting Cloud Valley School for the entire day.
 #### Create
 In your ***Design Journal***, create a reflection on the Cloud Valley trip with the following slides.
 * **Slide 1:** Describe what you and your team made. What are the inputs, e.g. how is it controlled? What are the outputs, e.g. what sounds/visuals does it produce?
-* **Slide 2:** How did seventh graders interact with your instrument? What worked? What didn't work? What was unexpected?
-* **Slide 3:** How did first graders interact with your instrument? What worked? What didn't work? What was unexpected?
+* **Slide 2:** How did seventh graders interact with your instrument? What worked? What would you change? What was unexpected?
+* **Slide 3:** How did first graders interact with your instrument? What worked? What would you change? What was unexpected?
 * **Slide 4:** If you were to continue working on your instrument, what would you change about it? Remember, this course is entitled "Creative Learning Design." How would you improve your instrument's user experience, effectiveness in encouraging creativity, and/or use as a teaching tool?
 * **Slide 5:** Summarize your individual interview with a Cloud Valley student.
 
