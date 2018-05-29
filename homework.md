@@ -6,22 +6,7 @@ position: 2
 navlevel: header
 navtitle: homework
 ---
-### Due Tuesday, May 22:
-[Please fill out the introductory course survey.](https://goo.gl/forms/Hc11i0FycFeF6Dbt1)
-
-### Due Thursday, May 24:
-#### Critique
-* Read: [Programming, Humility, and the Eclipse of the Self](https://drive.google.com/open?id=1C2lfLAJ0Qm8_o_FLdfVCCpVaijby1Hqx)
-* Read: [Music, Meaning, Transformation, Chapter 5](https://drive.google.com/open?id=1nTz9PQF24GHVpRCbPPUlUK0wv3n1mDOz)
-* Watch: [The Orchestra of the Future](https://www.ted.com/talks/ge_wang_the_diy_orchestra_of_the_future)
-
-#### Create
-1. Make a new Google slide deck titled with your name in the [Student Design Journal Folder](https://drive.google.com/open?id=1r8hWU2sKd23BAznxoiyjv6aPBAcUYiOM) and create a cover page. This is your ***Design Journal*** where you will document your work throughout the course. Get creative in picking colors, fonts and images! Your instructor has provided an example for this week's assignments.
-2. Post the "Lego Home" and portrait you made.
-3. Find a Youtube video with a song you enjoy. Then, use the [aQWERTYon](https://apps.musedlab.org/aqwertyon/) to perform with it finding a suitable instrument and key. Document your process in your ***Design Journal***. What was easy? What was hard? Include screenshots and pictures. We will all perform for each other on Thursday!
-4. Brainstorm three ideas for a Scratch+Music Project. List them with a brief description, and/or maybe a sketch in your ***Design Journal***. Don't feel like you have to commit to any idea or that they have to be brilliant. We care more about quantity than quality here!
-
-### Due Next Tuesday, May 29:
+### Due Tuesday, May 29:
 #### Critique
 * Read: [*Lifelong Kindergarten*, Chapter 1](https://drive.google.com/open?id=1T3XMAZ_k5On9gF6o8m2KSqIBtCMLx80_)
 * Read: [*The Design of Everyday Things*, Chapter 1](https://drive.google.com/open?id=1RUOBMvSxUY9QhSlO4MmMfIESz_LbzKaH), (begins on p. 20 in the pdf)
@@ -44,6 +29,36 @@ Watch the MaKey MaKey Music videos for inspiration:
 * [Motion captured by a computer camera triggers the strings of an instrument.](https://scratch.mit.edu/projects/10040683/)
 * [Simple MaKey MaKey instruments.](http://tinyurl.com/makeymakeyscratchmusic)
 * [Cognimates AI Scratch Platform](https://mitmedialab.github.io/cognimates-website/about/)
+
+### Due Thursday, May 31:
+#### Curate
+Take a picture of an object in the world with affordances. (These are discussed beginning on p. 10 in [*The Design of Everyday Things*](https://drive.google.com/open?id=1RUOBMvSxUY9QhSlO4MmMfIESz_LbzKaH).) Then, include the picture in your ***Design Journal*** alongside a list of the object's affordances. Does the object have any signifiers or mappings? What are they and how well do they work?
+
+#### Create
+Finalize your MaKey+Scratch instrument with your team! Remember to plan how you will present it to first graders vs. seventh graders and how to involve each age group. Also, write down your questions for an individual student on the handout we provide you with in class.
+
+We are visiting Cloud Valley School for the entire day.
+* Please **meet in the lobby at NYU at 6:50am** for the bus to take us all there.
+* Bring writing materials, the handouts provided in class today, and make sure someone in your team is bringing a computer to run your project.
+* Please bring water and breakfast. Lunch and dinner will be provided.
+* [The schedule for the visit can be found in the course drive.](https://drive.google.com/open?id=1YtA3c1THqW6fBna2fNxYLi4ygty1Uv28)
+
+### Due Next Tuesday, June 5:
+#### Critique
+* Read: [Interest Driven Music Education](https://drive.google.com/open?id=1-48yT32wSb3rI_AuayWQ2FhmWdO8C1Kv). (Yes, games like RockBand and the instruments you made can have awesome benefits!)
+
+#### Create
+In your ***Design Journal***, create a reflection on the Cloud Valley trip with the following slides.
+* **Slide 1:** Describe what you and your team made. What are the inputs, e.g. how is it controlled? What are the outputs, e.g. what sounds/visuals does it produce?
+* **Slide 2:** How did seventh graders interact with your instrument? What worked? What didn't work? What was unexpected?
+* **Slide 3:** How did first graders interact with your instrument? What worked? What didn't work? What was unexpected?
+* **Slide 4:** If you were to continue working on your instrument, what would you change about it? Remember, this course is entitled "Creative Learning Design." How would you improve your instrument's user experience, effectiveness in encouraging creativity, and/or use as a teaching tool?
+* **Slide 5:** Summarize your individual interview with a Cloud Valley student.
+
+#### Teams
+* Cloud Valley: TBD
+* Shanghai Symphony: Familiarize your the education offerings from the [New York Philharmonic](https://nyphil.org), [Carnegie Hall](https://www.carnegiehall.org), and [Lincoln Center for the Arts](http://www.lincolncenter.org). Consider which age groups the education materials appear to be targeting.
+* Tinkamo: Watch the videos and read the descriptions on [Tinkamo's Kickstarter page](https://www.kickstarter.com/projects/44540085/tinkamo-smart-building-blocks-for-future-creators).
 
 ***
 <center><a href='https://docs.google.com/spreadsheets/d/1VG1K4f6eRtQaxqVSOX7DTNqgoiA7TVCsjpQANqhlb4s/edit?usp=sharing' target="_blank">Click here to view the course calendar.</a></center>
