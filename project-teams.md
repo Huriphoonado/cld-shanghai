@@ -1,6 +1,6 @@
 ---
 layout: page
-title: PROJECT TEAMS
+title: Project Teams
 lang: en
 navlevel: header
 navtitle: Project Teams

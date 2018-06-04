@@ -1,6 +1,6 @@
 ---
 layout: page
-title: CREATIVE LEARNING DESIGN
+title: Creative Learning Design
 lang: en
 cover_url: assets/images/shanghai-background.JPG
 position: 0

@@ -1,7 +1,7 @@
 ---
 layout: page
 lang: en
-title: THIS WEEK'S HOMEWORK
+title: This Week's Homework
 position: 2
 navlevel: header
 navtitle: homework
@@ -57,7 +57,7 @@ In your ***Design Journal***, create a reflection on the Cloud Valley trip with 
 #### Teams
 * Cloud Valley: TBD
 * Shanghai Symphony:
-  * Familiarize your the education offerings from the [New York Philharmonic](https://nyphil.org), [Carnegie Hall](https://www.carnegiehall.org), and [Lincoln Center for the Arts](http://www.lincolncenter.org). Consider which age groups the education materials appear to be targeting.
+  * Familiarize yourself with the education offerings from the [New York Philharmonic](https://nyphil.org), [Carnegie Hall](https://www.carnegiehall.org), and [Lincoln Center for the Arts](http://www.lincolncenter.org). Consider which age groups the education materials appear to be targeting.
   * Added Sunday: [If you have Instagram, please check out this resource as well.](https://www.instagram.com/stories/highlights/17873612905242611/?hl=en)
 * Tinkamo: Watch the videos and read the descriptions on [Tinkamo's Kickstarter page](https://www.kickstarter.com/projects/44540085/tinkamo-smart-building-blocks-for-future-creators).
 
