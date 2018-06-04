@@ -23,11 +23,15 @@ This page is for Alex, Willie, and Lulu to plan upcoming assignments...
 
 ### Create
 #### Cloud Valley
+Fill out the right side.
 
 #### SSO
+Further review
 
 #### Tinkamo
-Find an experience created with a Scratch extension. Tinker with it and report back in one or more slides in your ***Design Journal***. How does the example work and what What do the new extension blocks afford? Do they make sense or are they confusing? What would you add or change about the extension? You might want to check out the following extensions:
+Find an experience created with a Scratch extension. Tinker with it and report back in one or more slides in your ***Design Journal***. How does the example work? What do the new extension blocks afford? Do they make sense or are they confusing? What would you add to or change about the extension? Be prepared to show off your extension on Thursday.
+
+You might want to check out the following extensions:
 * [ScratchX + Spotify](https://ericrosenbaum.github.io/spotify-extension/)
 * [Performamatics](https://scratch.mit.edu/studios/222541/) (music modules built in Scratch)
 * [Cognimates AI Library](http://mitmedialab.github.io/cognimates-website/). [Try extensions here](https://codelab.cognimates.me) by clicking in the bottom left corner to add.
@@ -49,6 +53,11 @@ Find an experience created with a Scratch extension. Tinker with it and report b
   * Seminal text on open-ended computer learning environments. Scratch, Tinkamo, Processing, etc. all descend from LOGO.
 
 ### Create
-* Cloud Valley
-* SSO
-* Tinkamo
+
+#### Cloud Valley
+Whole school project bringing together first and seventh graders.
+
+#### SSO
+Map out a set of design criteria for the Shanghai Symphony Orchestra.
+
+#### Tinkamo
