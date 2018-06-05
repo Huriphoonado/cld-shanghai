@@ -6,60 +6,81 @@ position: 2
 navlevel: header
 navtitle: homework
 ---
-### Due Tuesday, May 29:
-#### Critique
-* Read: [*Lifelong Kindergarten*, Chapter 1](https://drive.google.com/open?id=1T3XMAZ_k5On9gF6o8m2KSqIBtCMLx80_)
-* Read: [*The Design of Everyday Things*, Chapter 1](https://drive.google.com/open?id=1RUOBMvSxUY9QhSlO4MmMfIESz_LbzKaH), (begins on p. 20 in the pdf)
-* Read: [IDEO Field Guide, pp. 1–26](https://drive.google.com/open?id=1sRnx_Wmyi7MgkJY4VkEiR-4W_DHxqtRS)
-* Watch: [The Mad Scientist of Music](https://www.ted.com/talks/mark_applebaum_the_mad_scientist_of_music)
-
-#### Create
-Continue working on your Scratch/MaKey musical instrument with your partner. We will show off our progress to each other and to Cloud Valley teachers in class on Tuesday.
-
-It is due Thursday, May 31 when we will be sharing our instruments with first graders and seventh graders at Cloud Valley School.
-
-Watch the MaKey MaKey Music videos for inspiration:
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wkPt9MYqDW0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/STHZ2FFKYBs" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
-#### Other examples:
-* [Noise picked up by the computer microphone moves the cat across the screen.](https://scratch.mit.edu/projects/573350/)
-* [Motion captured by a computer camera triggers the strings of an instrument.](https://scratch.mit.edu/projects/10040683/)
-* [Simple MaKey MaKey instruments.](http://tinyurl.com/makeymakeyscratchmusic)
-* [Cognimates AI Scratch Platform](https://mitmedialab.github.io/cognimates-website/about/)
-
-### Due Thursday, May 31:
-#### Curate
-Take a picture of an object in the world with affordances. (These are discussed beginning on p. 10 in [*The Design of Everyday Things*](https://drive.google.com/open?id=1RUOBMvSxUY9QhSlO4MmMfIESz_LbzKaH).) Then, include the picture in your ***Design Journal*** alongside a list of the object's affordances. Does the object have any signifiers or mappings? What are they and how well do they work?
-
-#### Create
-Finalize your MaKey+Scratch instrument with your team! Remember to plan how you will present it to first graders vs. seventh graders and how to involve each age group. Also, write down your prior experience and assumptions for an individual student on the handout we provide you with in class. [Post a link to your Scratch project here.](https://docs.google.com/spreadsheets/d/1yppuzT51VB6pmNCGvrmwqNyU4vAHZoaEHIhGcESEJYc/edit?usp=sharing)
-
-We are visiting Cloud Valley School for the entire day.
-* Please **meet in the lobby at NYU at 6:50am** for the bus to take us all there.
-* Bring writing materials, the handouts provided in class today, and make sure someone in your team is bringing a computer to run your project.
-* Please bring water and breakfast. Lunch and dinner will be provided.
-* [The schedule for the visit can be found in the course drive.](https://drive.google.com/open?id=1YtA3c1THqW6fBna2fNxYLi4ygty1Uv28)
-
-### Due Next Tuesday, June 5:
-#### Critique
+## Due Tuesday, June 5:
+### Critique
 * Read: [Interest Driven Music Education](https://drive.google.com/open?id=1-48yT32wSb3rI_AuayWQ2FhmWdO8C1Kv). (Yes, games like RockBand and the instruments you made can have awesome benefits!)
 
-#### Create
+### Create
 In your ***Design Journal***, create a reflection on the Cloud Valley trip with the following slides.
 * **Slide 1:** Describe what you and your team made. What are the inputs, e.g. how is it controlled? What are the outputs, e.g. what sounds/visuals does it produce?
 * **Slide 2:** How did seventh graders interact with your instrument? What worked? What would you change? What was unexpected?
 * **Slide 3:** How did first graders interact with your instrument? What worked? What would you change? What was unexpected?
 * **Slide 4:** Summarize your individual interview with a Cloud Valley student.
 
-#### Teams
-* Cloud Valley: TBD
+### Teams
+* Cloud Valley: Nothing
 * Shanghai Symphony:
   * Familiarize yourself with the education offerings from the [New York Philharmonic](https://nyphil.org), [Carnegie Hall](https://www.carnegiehall.org), and [Lincoln Center for the Arts](http://www.lincolncenter.org). Consider which age groups the education materials appear to be targeting.
   * Added Sunday: [If you have Instagram, please check out this resource as well.](https://www.instagram.com/stories/highlights/17873612905242611/?hl=en)
 * Tinkamo: Watch the videos and read the descriptions on [Tinkamo's Kickstarter page](https://www.kickstarter.com/projects/44540085/tinkamo-smart-building-blocks-for-future-creators).
+
+***
+
+## Due Thursday, June 7:
+### Critique
+* Read: [Lean UX, Preface, Chapters 1–2](https://drive.google.com/open?id=1HCQwuqg8Fr0qRZcNzMxyq0U6YRByz9uZ)
+  * Overview of the rapid method of design we are about to embark on.
+  * pp. 15–34 in the pdf. Ignore the "Notes" at the end of the preface.
+* Read: [Lifelong Kindergarten, Chapter 6](https://drive.google.com/open?id=1WhPfNpvASjJc5bRjbXEql1u_NCucV1xI)
+  * Resnick's vision of a creative society as well as his many design tips should prove valuable for all our projects.
+* Watch: [Edith Ackerman on Curiosity and Learning](https://vimeo.com/144683857) (below)
+
+<iframe src="https://player.vimeo.com/video/144683857?color=ffffff&title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+### Create
+#### Cloud Valley
+In your ***Design Journal***, flesh out one of the personas we created today in class. You may choose either a first or seventh grader. Beyond needs and motivations, you should include a profile picture (real or cartoon, found online is fine) and fictional bio rooted in the stories of the students you met. [The Christie example near the end of the IDF page on personas](https://www.interaction-design.org/literature/article/personas-why-and-how-you-should-use-them) is a useful reference though yours does not have to be as long. Finally, come up with an idea for an activity for that student. In bullet points or fewer than three sentences, what is the attraction, engagement, and conclusion?
+
+#### SSO
+Continue to review educational offerings of orchestras around the world.
+
+#### Tinkamo
+Find an experience created with a Scratch extension. Tinker with it and report back in one or more slides in your ***Design Journal***. How does the example work? What do the new extension blocks afford? Do they make sense or are they confusing? What would you add to or change about the extension? Be prepared to show off your example+extension on Thursday.
+
+You might want to check out the following extensions:
+* [ScratchX + Spotify](https://ericrosenbaum.github.io/spotify-extension/)
+* [Performamatics](https://scratch.mit.edu/studios/222541/) (music modules built in Scratch)
+* [Cognimates AI Library](https://mitmedialab.github.io/cognimates-website/projects/).
+  * [Try extensions here](https://codelab.cognimates.me) by clicking in the bottom left corner to add.
+* [Lego WeDo](https://scratch.mit.edu/wedo)
+* (You are welcome to select another ScratchX project on the [extensions page](https://scratchx.org/#extensions), but not all work.)
+
+***
+
+## Due Next Tuesday, June 12:
+### Critique
+* Watch: [Jie Qi on Art with Paper Circuits](https://vimeo.com/144683854) (below)
+
+<iframe src="https://player.vimeo.com/video/144683854?color=ffffff&title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+* **Cloud Valley** - Read: [Music Curriculum as Lived Experience](https://drive.google.com/open?id=1hY_HPJCBDIXPoECDdxsQUl0VvTMKdVbx)
+  * The music classroom does not have to look like one teacher standing up front directing. Plus, Efty, the Cloud Valley music teacher, studied with Lucy Green, the author!
+* **SSO** - Read: [Walk over, Beethoven](https://www.cnu.org/publicsquare/2018/05/29/walk-over-beethoven), [Feel the Beat](https://www.theguardian.com/music/2018/may/16/feel-the-beat-deaf-fans-fight-for-access-to-live-music), [Orchestra Adopts a City](https://www.nytimes.com/2018/05/08/arts/music/baltimore-symphony-orchkids.html)
+  * Recent articles on expanding access to and interest in live music
+* **Tinkamo** - Read: [Introduction to Mindstorms](https://drive.google.com/open?id=1BbpcWFCpcODie9A58WpjB578C8gMCaLA)
+  * Seminal text on open-ended computer learning environments. Scratch, Tinkamo, Processing, etc. all descend from LOGO.
+
+### Create
+Directions for your weekend assignment will be updated based on progress made in class Tuesday and Thursday.
+
+#### Cloud Valley
+Report on your ideas for first and seventh grade curriculums as well as your idea for an activity bringing together both grades.
+
+#### SSO
+Map out a set of design criteria for the Shanghai Symphony Orchestra.
+
+#### Tinkamo
+Ideate and sketch/describe ideas for a Scratch+Tinkamo+Music activity as well as the blocks that would make it possible.
 
 ***
 <center><a href='https://docs.google.com/spreadsheets/d/1VG1K4f6eRtQaxqVSOX7DTNqgoiA7TVCsjpQANqhlb4s/edit?usp=sharing' target="_blank">Click here to view the course calendar.</a></center>

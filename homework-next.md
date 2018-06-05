@@ -23,18 +23,19 @@ This page is for Alex, Willie, and Lulu to plan upcoming assignments...
 
 ### Create
 #### Cloud Valley
-Fill out the right side.
+In your ***Design Journal***, flesh out one of the personas we created today in class. You may choose either a first or seventh grader. Beyond needs and motivations, you should include a profile picture (real or cartoon, found online is fine) and fictional bio rooted in the stories of the students you met. [The Christie example near the end of the IDF page on personas](https://www.interaction-design.org/literature/article/personas-why-and-how-you-should-use-them) is a useful reference though yours does not have to be as long. Finally, come up with an idea for an activity for that student. In bullet points or fewer than three sentences, what is the attraction, engagement, and conclusion?
 
 #### SSO
-Further review
+Continue to review educational offerings of orchestras around the world.
 
 #### Tinkamo
-Find an experience created with a Scratch extension. Tinker with it and report back in one or more slides in your ***Design Journal***. How does the example work? What do the new extension blocks afford? Do they make sense or are they confusing? What would you add to or change about the extension? Be prepared to show off your extension on Thursday.
+Find an experience created with a Scratch extension. Tinker with it and report back in one or more slides in your ***Design Journal***. How does the example work? What do the new extension blocks afford? Do they make sense or are they confusing? What would you add to or change about the extension? Be prepared to show off your example+extension on Thursday.
 
 You might want to check out the following extensions:
 * [ScratchX + Spotify](https://ericrosenbaum.github.io/spotify-extension/)
 * [Performamatics](https://scratch.mit.edu/studios/222541/) (music modules built in Scratch)
-* [Cognimates AI Library](http://mitmedialab.github.io/cognimates-website/). [Try extensions here](https://codelab.cognimates.me) by clicking in the bottom left corner to add.
+* [Cognimates AI Library](https://mitmedialab.github.io/cognimates-website/projects/).
+  * [Try extensions here](https://codelab.cognimates.me) by clicking in the bottom left corner to add.
 * [Lego WeDo](https://scratch.mit.edu/wedo)
 * (You are welcome to select another ScratchX project on the [extensions page](https://scratchx.org/#extensions), but not all work.)
 
@@ -48,16 +49,19 @@ You might want to check out the following extensions:
 
 * **Cloud Valley** - Read: [Music Curriculum as Lived Experience](https://drive.google.com/open?id=1hY_HPJCBDIXPoECDdxsQUl0VvTMKdVbx)
   * The music classroom does not have to look like one teacher standing up front directing. Plus, Efty, the Cloud Valley music teacher, studied with Lucy Green, the author!
-* **SSO** - Read:
+* **SSO** - Read: [Walk over, Beethoven](https://www.cnu.org/publicsquare/2018/05/29/walk-over-beethoven), [Feel the Beat](https://www.theguardian.com/music/2018/may/16/feel-the-beat-deaf-fans-fight-for-access-to-live-music), [Orchestra Adopts a City](https://www.nytimes.com/2018/05/08/arts/music/baltimore-symphony-orchkids.html)
+  * Recent articles on expanding access to and interest in live music
 * **Tinkamo** - Read: [Introduction to Mindstorms](https://drive.google.com/open?id=1BbpcWFCpcODie9A58WpjB578C8gMCaLA)
   * Seminal text on open-ended computer learning environments. Scratch, Tinkamo, Processing, etc. all descend from LOGO.
 
 ### Create
+Directions for your weekend assignment will be updated based on progress made in class Tuesday and Thursday.
 
 #### Cloud Valley
-Whole school project bringing together first and seventh graders.
+Report on your ideas for first and seventh grade curriculums as well as your idea for an activity bringing together both grades.
 
 #### SSO
 Map out a set of design criteria for the Shanghai Symphony Orchestra.
 
 #### Tinkamo
+Ideate and sketch/describe ideas for a Scratch+Tinkamo+Music activity as well as the blocks that would make it possible.
