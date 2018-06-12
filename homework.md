@@ -6,57 +6,6 @@ position: 2
 navlevel: header
 navtitle: homework
 ---
-## Due Tuesday, June 5:
-### Critique
-* Read: [Interest Driven Music Education](https://drive.google.com/open?id=1-48yT32wSb3rI_AuayWQ2FhmWdO8C1Kv). (Yes, games like RockBand and the instruments you made can have awesome benefits!)
-
-### Create
-In your ***Design Journal***, create a reflection on the Cloud Valley trip with the following slides.
-* **Slide 1:** Describe what you and your team made. What are the inputs, e.g. how is it controlled? What are the outputs, e.g. what sounds/visuals does it produce?
-* **Slide 2:** How did seventh graders interact with your instrument? What worked? What would you change? What was unexpected?
-* **Slide 3:** How did first graders interact with your instrument? What worked? What would you change? What was unexpected?
-* **Slide 4:** Summarize your individual interview with a Cloud Valley student.
-
-### Teams
-* Cloud Valley: Nothing
-* Shanghai Symphony:
-  * Familiarize yourself with the education offerings from the [New York Philharmonic](https://nyphil.org), [Carnegie Hall](https://www.carnegiehall.org), and [Lincoln Center for the Arts](http://www.lincolncenter.org). Consider which age groups the education materials appear to be targeting.
-  * Added Sunday: [If you have Instagram, please check out this resource as well.](https://www.instagram.com/stories/highlights/17873612905242611/?hl=en)
-* Tinkamo: Watch the videos and read the descriptions on [Tinkamo's Kickstarter page](https://www.kickstarter.com/projects/44540085/tinkamo-smart-building-blocks-for-future-creators).
-
-***
-
-## Due Thursday, June 7:
-### Critique
-* Read: [Lean UX, Preface, Chapters 1–2](https://drive.google.com/open?id=1HCQwuqg8Fr0qRZcNzMxyq0U6YRByz9uZ)
-  * Overview of the rapid method of design we are about to embark on.
-  * pp. 15–34 in the pdf. Ignore the "Notes" at the end of the preface.
-* Read: [Lifelong Kindergarten, Chapter 6](https://drive.google.com/open?id=1WhPfNpvASjJc5bRjbXEql1u_NCucV1xI)
-  * Resnick's vision of a creative society as well as his many design tips should prove valuable for all our projects.
-* Watch: [Edith Ackerman on Curiosity and Learning](https://vimeo.com/144683857) (below)
-
-<iframe src="https://player.vimeo.com/video/144683857?color=ffffff&title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-
-### Create
-#### Cloud Valley
-In your ***Design Journal***, flesh out one of the personas we created today in class. You may choose either a first or seventh grader. Beyond needs and motivations, you should include a profile picture (real or cartoon, found online is fine) and fictional bio rooted in the stories of the students you met. [The Christie example near the end of the IDF page on personas](https://www.interaction-design.org/literature/article/personas-why-and-how-you-should-use-them) is a useful reference though yours does not have to be as long. Finally, come up with an idea for an activity for that student. In bullet points or fewer than three sentences, what is the attraction, engagement, and conclusion?
-
-#### SSO
-Continue to review educational offerings of orchestras around the world.
-
-#### Tinkamo
-Find an experience created with a Scratch extension. Tinker with it and report back in one or more slides in your ***Design Journal***. How does the example work? What do the new extension blocks afford? Do they make sense or are they confusing? What would you add to or change about the extension? Be prepared to show off your example+extension on Thursday.
-
-You might want to check out the following extensions:
-* [ScratchX + Spotify](https://ericrosenbaum.github.io/spotify-extension/)
-* [Performamatics](https://scratch.mit.edu/studios/222541/) (music modules built in Scratch)
-* [Cognimates AI Library](https://mitmedialab.github.io/cognimates-website/projects/).
-  * [Try extensions here](https://codelab.cognimates.me) by clicking in the bottom left corner to add.
-* [Lego WeDo](https://scratch.mit.edu/wedo)
-* (You are welcome to select another ScratchX project on the [extensions page](https://scratchx.org/#extensions), but not all work.)
-
-***
-
 ## Due Next Tuesday, June 12:
 ### Critique
 * Watch: [Jie Qi on Art with Paper Circuits](https://vimeo.com/144683854) (below)
@@ -71,16 +20,61 @@ You might want to check out the following extensions:
   * Seminal text on open-ended computer learning environments. Scratch, Tinkamo, Processing, etc. all descend from LOGO.
 
 ### Create
-Directions for your weekend assignment will be updated based on progress made in class Tuesday and Thursday.
+Continue ideating and working on your group projects.
 
-#### Cloud Valley
-Report on your ideas for first and seventh grade curriculums as well as your idea for an activity bringing together both grades.
+***
 
-#### SSO
-Map out a set of design criteria for the Shanghai Symphony Orchestra.
+## Due Thursday, June 14
+### Critique
+* Read: [*Deschooling Society*, Chapter 1](http://www.preservenet.com/theory/Illich/Deschooling/chap1.html)
+  * Only read through the first sentence in section 4. The rest is optional.
+* Read: [*Deschooling Society, Chapter 6*](https://drive.google.com/open?id=1d5bRwppcI8rAMdMlDIB_f51Gwv5CMaal)
+  * Read pages 1–5. Feel free to skim the rest. (Some radical stuff in there though...)
+  * Much of *Deschooling Society* (1971) is a critique of institutionalized education, but in this chapter, Illich proposes decentralized learning networks aided by technology. How might your projects align with Illich's vision for self-motivated, peer-supported learning done independent from traditional schooling? Do you agree with everything he argues?
+* Watch: [Do Schools Kill Creativity](https://youtu.be/iG9CE55wbtY) (below)
 
-#### Tinkamo
-Ideate and sketch/describe ideas for a Scratch+Tinkamo+Music activity as well as the blocks that would make it possible.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iG9CE55wbtY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+### Create
+**First**, continue working with your team on your project. By this point you should have a pretty clear vision of what project idea your team is pursuing, the tasks you need to complete, and the roles of your teammates.
+
+**Second**, experiment with methods of documenting your team's work. We will brainstorm some ideas in class. You will need to have a formal method in place for weeks 5 and 6.
+
+**Third**, begin preparing a presentation for the last chunk of class on Thursday. You will have time to work on it in class, but not enough to start from scratch.
+
+You can organize your presentation however you would like, but we've included the following template to help.
+* **Slide 1 - Project Idea.** What are you planning to create? What is the challenge as you see it? You might want to include sketches or any of the work you have already done to help the class understand.
+* **Slide 2 - Persona(s).** Describe who you are designing for. Make sure to include a name/bio. What is their story/needs?
+* **Slide 3 - Experience Design Sequence.** What is the attraction, engagement, and conclusion? ([Check out Slide 9 in the first day's presentation for examples of experience design sequences.](https://docs.google.com/presentation/d/1J3ilYwvr1emdyRRZ-55m8Y-F_DMvVto_7enVo6JHddQ/edit?usp=sharing))
+* **Slide 4 - Connecting Your Design with Your User.** Now go more in depth. What does your user already know and what are they able to do before you provide them with your experience? What should they know/be able to do after? How might you observe/measure the success of your experience?
+* **Slide 5 - Project Plan.** What is the timeline for the next couple weeks? Who is working on what? What are you confident you can finish? What are stretch goals if you have time?
+* **Slide 6 - Questions** What open questions are you grappling with? What do you need to ask your client? What would you like the class to discuss?
+
+We do not expect you to have all the answers! In fact, you do not have all the answers, and some of what you present will almost certainly change if (when) asked to give a similar presentation two weeks from now. Nonetheless, we expect you to be as specific and complete as possible. Treat this as an opportunity for you to solidify your ideas, for your team to get on the same page, for your peers to offer insight, feedback, and concerns, and for your client to respond constructively.
+
+***
+
+## Due Next Tuesday, June 19
+### Curate
+* Read: [Design Methods, Chapters 5–7](http://faculty.washington.edu/ajko/books/design-methods/index.html)
+  * Quick overview of ideation, prototyping, and interface design.
+  * Videos are optional, but pretty great if you have the time!
+
+Assigned readings will be light moving forward because you will need to conduct research for your projects. Please reach out if we may help you find relevant resources.
+
+### Create
+#### Group Work
+Continue working on your group's project. Remember to formally document your team's progress.
+
+#### Weekly Individual Progress Report
+We expect each team member to document his/her contributions due before class on Tuesdays. In a few slides in your ***Design Journal*** please respond to the following questions:
+* What did you do? How many hours did you think it would take? How many hours did it actually take?
+* What new resources/design inspirations did you find?
+* What were barriers? When you got stuck, what strategies did you use to break out?
+* In general, what did you learn this week?
+* What are you curious to learn more about?
+
+[Willie has created a sample in the example slide deck based on an instrument he built a couple years ago.](https://docs.google.com/presentation/d/1rOm__xQ0BVkSRDiWFPwqPuGK1522qSpXUvkNclGrftg/edit?usp=sharing)
 
 ***
 <center><a href='https://docs.google.com/spreadsheets/d/1VG1K4f6eRtQaxqVSOX7DTNqgoiA7TVCsjpQANqhlb4s/edit?usp=sharing' target="_blank">Click here to view the course calendar.</a></center>
